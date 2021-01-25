@@ -328,7 +328,7 @@ img{
 
 /*===== offer =====*/
 .offer__bg {
-    background: url('/images/img/offer.jpg') no-repeat center/cover;
+    background: url('/assets/img/offer.jpg') no-repeat center/cover;
     text-align: center;
 }
 
